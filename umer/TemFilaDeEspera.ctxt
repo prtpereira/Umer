@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=hashcode
+comment0.target=void\ adicionaNaFila(int)
+comment1.params=
+comment1.target=boolean\ temAlguemNaFila()
+comment2.params=
+comment2.target=int\ proximoNaFila()
+comment3.params=db
+comment3.target=int\ numViagensEmEspera(DataBase)
+numComments=4

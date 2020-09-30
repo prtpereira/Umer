@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CondutorMaisProximoException()
+comment1.params=message
+comment1.target=CondutorMaisProximoException(java.lang.String)
+numComments=2

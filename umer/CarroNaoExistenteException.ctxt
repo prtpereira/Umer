@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CarroNaoExistenteException()
+comment1.params=message
+comment1.target=CarroNaoExistenteException(java.lang.String)
+numComments=2

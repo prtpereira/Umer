@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mota()
+comment1.params=matricula\ precoKm\ velocidade\ localizacao
+comment1.target=Mota(java.lang.String,\ double,\ double,\ Ponto2D)
+comment2.params=l
+comment2.target=Mota(Mota)
+comment3.params=
+comment3.target=Mota\ clone()
+numComments=4

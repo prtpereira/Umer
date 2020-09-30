@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Client()
+comment1.params=email\ nome\ password\ morada\ data\ ponto
+comment1.target=Client(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.time.LocalDate,\ Ponto2D)
+comment2.params=c
+comment2.target=Client(Client)
+comment3.params=
+comment3.target=Ponto2D\ getPosicao()
+comment4.params=x
+comment4.target=void\ setPosicao(Ponto2D)
+comment5.params=
+comment5.target=Client\ clone()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=index\ db
+comment7.target=void\ addViagem(int,\ DataBase)
+comment8.params=db
+comment8.target=double\ getGasto(DataBase)
+numComments=9

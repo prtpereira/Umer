@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ligeiro()
+comment1.params=matricula\ precoKm\ velocidade\ localizacao
+comment1.target=Ligeiro(java.lang.String,\ double,\ double,\ Ponto2D)
+comment2.params=l
+comment2.target=Ligeiro(Ligeiro)
+comment3.params=
+comment3.target=Ligeiro\ clone()
+numComments=4
